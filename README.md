@@ -1,6 +1,6 @@
 # -css-vertiefung_transform3
 
-Link zur Seite: https://github.com/jennijennina/-css-vertiefung_transform3/deployments/activity_log?environment=github-pages
+Link zur Seite: ttps://jennijennina.github.io/css-vertiefung_transform3/
 
 ## 🎓 Aufgabenstellung
 
